@@ -38,7 +38,7 @@
 		34A9F9E61B1385E900B86BBC /* NetworkController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetworkController.m; sourceTree = "<group>"; };
 		34A9F9E81B139C9100B86BBC /* MovieListTableViewDataSource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MovieListTableViewDataSource.h; sourceTree = "<group>"; };
 		34A9F9E91B139C9100B86BBC /* MovieListTableViewDataSource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MovieListTableViewDataSource.m; sourceTree = "<group>"; };
-		34D4546C1B0F94AF003DC36C /* MovieSearch2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieSearch2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		34D4546C1B0F94AF003DC36C /* DMMDB.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DMMDB.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		34D454701B0F94AF003DC36C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34D454711B0F94AF003DC36C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		34D454731B0F94AF003DC36C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -94,7 +94,7 @@
 		34D4546D1B0F94AF003DC36C /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				34D4546C1B0F94AF003DC36C /* MovieSearch2.app */,
+				34D4546C1B0F94AF003DC36C /* DMMDB.app */,
 				34D454851B0F94AF003DC36C /* MovieSearch2Tests.xctest */,
 			);
 			name = Products;
@@ -181,7 +181,7 @@
 			);
 			name = DMMDB;
 			productName = MovieSearch2;
-			productReference = 34D4546C1B0F94AF003DC36C /* MovieSearch2.app */;
+			productReference = 34D4546C1B0F94AF003DC36C /* DMMDB.app */;
 			productType = "com.apple.product-type.application";
 		};
 		34D454841B0F94AF003DC36C /* MovieSearch2Tests */ = {
